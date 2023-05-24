@@ -2,7 +2,7 @@
 name = "paperemind"
 version = "0.1.0"
 description = ""
-authors = ["Prgckwb <dev@prgckwb.com>"]
+authors = ["Prgckwb <>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
