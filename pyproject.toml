@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "paperemind"
+version = "0.1.0"
+description = ""
+authors = ["Prgckwb <dev@prgckwb.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+
+
+[tool.poetry.group.dev.dependencies]
+rich = "^13.3.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
